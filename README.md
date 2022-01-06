@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salva Daneshgadeh Cakmakci
 - 👀 I’m interested in Cybersecuirty, Data science, Machine learning
 - 🌱 I’m currently learning Phyton for Data Science
-- 💞️ I’m looking to collaborate on data analysis
+- 💞️ I’m looking to collaborate on data analysis projects
 
 
 <!---
